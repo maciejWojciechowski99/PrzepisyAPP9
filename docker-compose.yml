@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  php-apache:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - mysql
+      - smtp
+    environment:
+      - MYSQL_HOST=mysql
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=przepisy
+      - SMTP_HOST=smtp
+      - SMTP_PORT=587
+
+  mysql:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: przepisy
+    volumes:
+      - ./database.sql:/docker-entrypoint-initdb.d/database.sql
+
+  smtp:
+    image: namshi/smtp
+    ports:
+      - "1025:1025"
+

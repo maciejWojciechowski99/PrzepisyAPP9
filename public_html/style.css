@@ -1,0 +1,60 @@
+.footer {
+  margin-top: 200px;
+}
+
+.przepisy {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  min-height: 300px;
+}
+
+.przepisy__tytul {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  margin: 25px;
+  background: none;
+  font-size: 20px;
+  max-width: 500px;
+  height: auto;
+  color: #000;
+  box-sizing: border-box;
+  padding: 30px;
+  transform-origin: center;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.header {
+  text-align: center;
+  padding: 20px 0 20px 0;
+}
+
+.deleteButton {
+  border-radius: 10%;
+  width: 70px;
+  background-color: #ff5e5b;
+  border: none;
+}
+
+.cursor {
+  opacity: 0;
+  transition: 0.2s;
+  color: #fff;
+}
+
+.cursor.active {
+  opacity: 1;
+}
+
+.desctription {
+  white-space: pre-line;
+}
+
+.star.hovered,
+.star.selected {
+  color: gold;
+  cursor: pointer;
+}

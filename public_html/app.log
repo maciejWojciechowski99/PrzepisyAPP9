@@ -1,0 +1,528 @@
+2024-01-18 19:53:43 - Success: Dodano nowy przepis
+2024-01-18 19:55:31 - Success: Dodano nowy przepis - Recipe Title: teeeet - User: a
+2024-01-18 19:56:27 - Success: Dodano nowy przepis - tytuł przepisu: hah - Użytkownik: a
+2024-01-18 19:58:35 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-01-18 19:58:35 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-01-18 19:58:36 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: a
+2024-01-18 20:00:56 - Success: Dodano nowego użytkownika: nowytestowy
+2024-01-18 20:05:03 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:05:08 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:05:08 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:05:10 - Error: Próba rejestracji użytkownika z pustymi polami.
+2024-01-18 20:07:52 - Error: Błędny login lub hasło dla użytkownika 'af'.
+2024-01-18 20:08:04 - Error: Błędny login lub hasło dla użytkownika 'fafa'.
+2024-01-18 20:08:51 - Error: podano puste pola 
+2024-01-18 20:09:06 - Error: podano puste pola przy próbie zalogowania
+2024-01-18 20:09:14 - Error: podano puste pola przy próbie zalogowania
+2024-01-18 20:09:15 - Error: podano puste pola przy próbie zalogowania
+2024-01-18 20:11:43 - Error: Błędny login lub hasło dla użytkownika 'a'.
+2024-01-18 20:18:52 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:20:57 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:21:30 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:23:02 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 20:23:05 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 21:55:35 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:02:50 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:06:45 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:13 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:16 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:19 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:09:27 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:10:47 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:15:59 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:18:23 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:18:33 - Success: Użytkownik 'b' zalogował się.
+2024-01-18 22:20:20 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:20:31 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:27:55 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:27:58 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:28:34 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:28:41 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:28:46 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:30:01 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:30:02 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:30:54 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:34:49 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:37:06 - Success: Użytkownik 'a' zalogował się.
+2024-01-18 22:44:10 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:44:48 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:46:53 - Success: Użytkownik 'a' został wylogowany.
+2024-01-18 22:49:01 - Success: Użytkownik 'a' został wylogowany.
+2024-01-19 12:20:11 - Success: Użytkownik 'a' zalogował się.
+2024-01-19 12:20:17 - Success: Użytkownik 'b' zalogował się.
+2024-01-19 12:20:46 - Success: Dodano nowego użytkownika: Maciej
+2024-01-19 12:20:59 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:20:59 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-01-19 12:21:35 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:21:35 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-01-19 12:21:46 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:21:46 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-01-19 12:22:31 - Success: Użytkownik 'Maciej' zalogował się.
+2024-01-19 12:22:42 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: Maciej
+2024-01-19 12:23:22 - Success: Użytkownik 'a' zalogował się.
+2024-01-20 14:46:12 - Success: Użytkownik 'b' zalogował się.
+2024-01-20 17:07:11 - Success: Użytkownik 'b' zalogował się.
+2024-01-20 17:09:20 - Success: Użytkownik 'b' zalogował się.
+2024-01-20 17:09:38 - Error: Podano puste pola!
+2024-01-20 18:06:33 - Success: Dodano nowego użytkownika: ma
+2024-01-20 18:06:55 - Success: Użytkownik 'ma' zalogował się.
+2024-01-20 18:07:52 - Success: Dodano nowy przepis - tytuł przepisu: Lasagne - Użytkownik: ma
+2024-01-20 18:09:40 - Success: Użytkownik 'ma' zalogował się.
+2024-01-20 18:13:35 - Success: Użytkownik 'b' zalogował się.
+2024-01-28 18:43:38 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:15:02 - Success: Dodano nowego użytkownika: b
+2024-02-08 17:15:23 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:15:23 - Error: Błędny login lub hasło dla użytkownika 'b'.
+2024-02-08 17:15:37 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:15:37 - Error: Błędny login lub hasło dla użytkownika 'b'.
+2024-02-08 17:16:54 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:16:54 - Error: Błędny login lub hasło dla użytkownika 'b'.
+2024-02-08 17:16:55 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:16:55 - Error: Błędny login lub hasło dla użytkownika 'b'.
+2024-02-08 17:17:03 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:17:03 - Error: Błędny login lub hasło dla użytkownika 'b'.
+2024-02-08 17:18:05 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:18:05 - Error: Błędny login lub hasło dla użytkownika 'b'.
+2024-02-08 17:22:15 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 17:49:25 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 17:49:41 - Success: Dodano nowego użytkownika: b
+2024-02-08 17:49:48 - Success: Użytkownik 'b' zalogował się.
+2024-02-08 17:49:57 - Success: Dodano nowy przepis - tytuł przepisu: te - Użytkownik: b
+2024-02-08 17:50:06 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:05:33 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:15:39 - Error: Próba rejestracji użytkownika o loginie 'a' nieudana - login jest już zajęty.
+2024-02-08 18:19:11 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:25:48 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:28:09 - Success: Dodano nowego użytkownika: frodo
+2024-02-08 18:28:21 - Success: Użytkownik 'frodo' zalogował się.
+2024-02-08 18:31:13 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:32:17 - Success: Dodano nowego użytkownika: Frodos
+2024-02-08 18:32:33 - Error: Próba rejestracji użytkownika o loginie 'Frodos' i adresie e-mail 'ammmm@sf.fa' nieudana - login i adres e-mail są już zajęte.
+2024-02-08 18:32:55 - Success: Dodano nowego użytkownika: xe
+2024-02-08 18:37:36 - Success: Dodano nowego użytkownika: kra
+2024-02-08 18:37:48 - Success: Użytkownik 'kra' zalogował się.
+2024-02-08 18:42:39 - Success: Użytkownik 'ag' zalogował się.
+2024-02-08 18:42:39 - Error: Błędny login lub hasło dla użytkownika 'ag'.
+2024-02-08 18:42:44 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:42:44 - Error: Błędny login lub hasło dla użytkownika 'a'.
+2024-02-08 18:42:49 - Error: podano puste pola przy próbie zalogowania
+2024-02-08 18:42:51 - Error: podano puste pola przy próbie zalogowania
+2024-02-08 18:44:34 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:44:34 - Error: Błędny login lub hasło dla użytkownika 'a'.
+2024-02-08 18:44:39 - Success: Użytkownik 'a' zalogował się.
+2024-02-08 18:44:45 - Error: Podano puste pola!
+2024-02-08 18:44:46 - Error: Podano puste pola!
+2024-02-08 18:44:53 - Error: Podano puste pola!
+2024-02-08 18:44:58 - Error: Podano puste pola!
+2024-02-09 14:23:49 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 14:24:02 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 14:29:15 - Success: Dodano nowy przepis - tytuł przepisu: a - Użytkownik: a
+2024-02-09 14:29:17 - Success: Dodano nowy przepis - tytuł przepisu: b - Użytkownik: a
+2024-02-09 14:36:15 - Success: Usunięto przepis: b - tytuł przepisu: b - Użytkownik: a
+2024-02-09 14:36:16 - Success: Usunięto przepis: a - tytuł przepisu: a - Użytkownik: a
+2024-02-09 14:38:04 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 14:44:18 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 14:45:25 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 14:49:54 - Success: Dodano nowy przepis - tytuł przepisu: a - Użytkownik: a
+2024-02-09 14:49:56 - Success: Dodano nowy przepis - tytuł przepisu: f - Użytkownik: a
+2024-02-09 14:54:49 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 14:59:19 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 15:00:07 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 15:03:14 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 15:09:14 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 15:10:17 - Success: Dodano nowego użytkownika: c
+2024-02-09 15:11:16 - Success: Użytkownik 'c' zalogował się.
+2024-02-09 15:12:38 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 15:15:45 - Success: Użytkownik 'a' zalogował się.
+2024-02-09 15:15:45 - Error: Błędny login lub hasło dla użytkownika 'a'.
+2024-02-09 15:15:51 - Success: Użytkownik 'a' zalogował się.
+2024-02-16 16:12:50 - Success: Dodano nowego użytkownika: Maciej i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-16 16:13:26 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-16 16:13:30 - Success: Dodano nowy przepis - tytuł przepisu: ad - Użytkownik: Maciej
+2024-02-16 16:13:33 - Success: Dodano nowy przepis - tytuł przepisu: asffsa - Użytkownik: Maciej
+2024-02-16 16:13:34 - Success: Dodano nowy przepis - tytuł przepisu: asgasg - Użytkownik: Maciej
+2024-02-16 16:13:48 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-16 16:16:45 - Error: Podano puste pola!
+2024-02-16 16:16:53 - Success: Dodano nowy przepis - tytuł przepisu: af - Użytkownik: Maciej
+2024-02-16 16:17:09 - Success: Dodano nowy przepis - tytuł przepisu: afsafs - Użytkownik: Maciej
+2024-02-16 16:18:43 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-16 16:18:53 - Success: Usunięto przepis: asffsa - tytuł przepisu: asffsa - Użytkownik: Maciej
+2024-02-16 16:18:53 - Success: Usunięto przepis: asgasg - tytuł przepisu: asgasg - Użytkownik: Maciej
+2024-02-16 16:18:54 - Success: Usunięto przepis: ad - tytuł przepisu: ad - Użytkownik: Maciej
+2024-02-16 16:18:56 - Success: Usunięto przepis: afsafs - tytuł przepisu: afsafs - Użytkownik: Maciej
+2024-02-16 16:18:58 - Success: Usunięto przepis: af - tytuł przepisu: af - Użytkownik: Maciej
+2024-02-16 16:18:59 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 10:20:09 - Success: Dodano nowego użytkownika: Maciej i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 10:20:38 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 10:37:47 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 10:42:56 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 10:47:33 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 10:48:34 - Success: Dodano nowego użytkownika: Maciej i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 10:48:53 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 10:49:00 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 10:52:37 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 10:52:50 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 10:52:54 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 10:55:29 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 11:08:10 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 11:14:53 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 11:17:41 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 11:24:11 - Error: Błąd tokenu CSRF! Proszę odświeżyć stronę i spróbować ponownie.
+2024-02-26 11:29:11 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 11:29:38 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 11:29:41 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 11:29:42 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 13:02:27 - Success: Usunięto przepis: asf - tytuł przepisu: asf - Użytkownik: a
+2024-02-26 13:02:29 - Success: Dodano nowy przepis - tytuł przepisu: fas - Użytkownik: a
+2024-02-26 13:03:33 - Error: podano puste pola przy próbie zalogowania
+2024-02-26 13:04:32 - Error: podano puste pola przy próbie zalogowania
+2024-02-26 13:06:14 - Error: podano puste pola przy próbie zalogowania
+2024-02-26 13:06:43 - Error: podano puste pola przy próbie zalogowania
+2024-02-26 14:23:41 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:23:41 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:23:48 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:23:48 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:23:55 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:23:55 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:24:04 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:24:04 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:24:41 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:24:41 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:28:00 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:28:46 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:28:46 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:28:54 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:28:54 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:29:05 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:31:58 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:31:58 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 14:32:17 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:35:20 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:48:37 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 14:48:46 - Success: Użytkownik 'a' zalogował się.
+2024-02-26 14:55:32 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:01:48 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:01:48 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:01:54 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:01:54 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:02:01 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:02:01 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:02:37 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:02:37 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:04:35 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:05:57 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:08:35 - Success: Użytkownik 'battlefield0909@gmail.com' zalogował się.
+2024-02-26 15:08:35 - Error: Błędny login lub hasło dla użytkownika 'battlefield0909@gmail.com'.
+2024-02-26 15:08:42 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:12:13 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:12:13 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:12:24 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:12:24 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:13:28 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:13:28 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:14:40 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:14:40 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-26 15:19:20 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:23:59 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:29:46 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 15:31:16 - Success: Dodano nowego użytkownika: Maciej i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 16:19:46 - Success: Dodano nowego użytkownika: admin i wysłano powitalnego maila na maciejwojciechowskiofc@gmail.com
+2024-02-26 16:20:58 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 16:27:10 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 16:27:13 - Success: Dodano nowy przepis - tytuł przepisu: af - Użytkownik: Maciej
+2024-02-26 16:28:13 - Success: Dodano nowy przepis - tytuł przepisu: fasaf - Użytkownik: Maciej
+2024-02-26 16:28:16 - Success: Usunięto przepis: af - tytuł przepisu: af - Użytkownik: Maciej
+2024-02-26 16:28:17 - Success: Usunięto przepis: fasaf - tytuł przepisu: fasaf - Użytkownik: Maciej
+2024-02-26 16:53:00 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 16:53:53 - Success: Dodano nowy przepis - tytuł przepisu: asd - Użytkownik: Maciej
+2024-02-26 17:08:34 - Success: Dodano nowy przepis - tytuł przepisu: af - Użytkownik: Maciej
+2024-02-26 17:08:43 - Success: Dodano nowy przepis - tytuł przepisu: fas - Użytkownik: Maciej
+2024-02-26 17:08:45 - Success: Dodano nowy przepis - tytuł przepisu: fsa - Użytkownik: Maciej
+2024-02-26 17:08:47 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 17:08:54 - Success: Dodano nowy przepis - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:08:56 - Success: Dodano nowy przepis - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:08:58 - Success: Dodano nowy przepis - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:08:59 - Success: Dodano nowy przepis - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:09:01 - Success: Dodano nowy przepis - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:09:02 - Success: Dodano nowy przepis - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:09:04 - Success: Dodano nowy przepis - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:38 - Success: Usunięto przepis: af - tytuł przepisu: af - Użytkownik: Maciej
+2024-02-26 17:46:38 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:39 - Success: Usunięto przepis: fas - tytuł przepisu: fas - Użytkownik: Maciej
+2024-02-26 17:46:39 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:40 - Success: Usunięto przepis: fsa - tytuł przepisu: fsa - Użytkownik: Maciej
+2024-02-26 17:46:40 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:41 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 17:46:41 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:41 - Success: Usunięto przepis: asfasf - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:42 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:42 - Success: Usunięto przepis: asfasf - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:42 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:43 - Success: Usunięto przepis: asfasf - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:43 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:43 - Success: Usunięto przepis: asfasf - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:44 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:44 - Success: Usunięto przepis: asfasf - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:44 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:45 - Success: Usunięto przepis: asfasf - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:46 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:47 - Success: Usunięto przepis: asd - tytuł przepisu: asd - Użytkownik: Maciej
+2024-02-26 17:46:47 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:46:48 - Success: Usunięto przepis: asfasf - tytuł przepisu: asfasf - Użytkownik: Maciej
+2024-02-26 17:46:49 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:49:28 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 17:49:32 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:33 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:35 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:36 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:37 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:39 - Error: Podano puste pola!
+2024-02-26 17:49:41 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:42 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:43 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:49:45 - Success: Dodano nowy przepis - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:21 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 17:50:22 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:23 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:24 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:24 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:25 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:25 - Success: Usunięto przepis: fasfsafffaaaaa - tytuł przepisu: fasfsafffaaaaa - Użytkownik: Maciej
+2024-02-26 17:50:26 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:26 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:27 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:27 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:27 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:28 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:29 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:29 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:30 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:30 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:31 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:50:32 - Success: Usunięto przepis: fasfsa - tytuł przepisu: fasfsa - Użytkownik: Maciej
+2024-02-26 17:50:33 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 17:53:48 - Success: Użytkownik 'a' zalogował się.
+2024-02-26 17:53:54 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:53:56 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:53:57 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:53:59 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:00 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:01 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:03 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:04 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:06 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:07 - Success: Dodano nowy przepis - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:19 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:20 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:21 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:21 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:21 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:22 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:22 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:22 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:23 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:23 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:23 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:24 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:25 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:25 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:26 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:26 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:27 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:28 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:28 - Success: Usunięto przepis: aaa - tytuł przepisu: aaa - Użytkownik: a
+2024-02-26 17:54:30 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 17:54:40 - Success: Dodano nowy przepis - tytuł przepisu: a - Użytkownik: a
+2024-02-26 17:54:43 - Success: Usunięto przepis: a - tytuł przepisu: a - Użytkownik: a
+2024-02-26 18:11:14 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: a
+2024-02-26 18:11:23 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: a
+2024-02-26 18:32:44 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 18:32:55 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 18:33:07 - Success: Użytkownik 'a' zalogował się.
+2024-02-26 18:42:24 - Success: Użytkownik 'a' zalogował się.
+2024-02-26 18:42:51 - Success: Dodano nowy przepis - tytuł przepisu: zea - Użytkownik: a
+2024-02-26 18:50:58 - Success: Dodano nowy przepis - tytuł przepisu: kra - Użytkownik: a
+2024-02-26 18:54:44 - Success: Dodano nowy przepis - tytuł przepisu: fa - Użytkownik: a
+2024-02-26 18:54:46 - Success: Dodano nowy przepis - tytuł przepisu: affaa - Użytkownik: a
+2024-02-26 18:54:52 - Success: Dodano nowy przepis - tytuł przepisu: faf - Użytkownik: a
+2024-02-26 19:03:58 - Success: Dodano nowy przepis - tytuł przepisu: afff - Użytkownik: a
+2024-02-26 19:04:06 - Success: Dodano nowy przepis - tytuł przepisu: 1 - Użytkownik: a
+2024-02-26 19:04:09 - Success: Dodano nowy przepis - tytuł przepisu: 2 - Użytkownik: a
+2024-02-26 19:04:11 - Success: Dodano nowy przepis - tytuł przepisu: 5 - Użytkownik: a
+2024-02-26 19:04:13 - Success: Dodano nowy przepis - tytuł przepisu: 3 - Użytkownik: a
+2024-02-26 19:05:06 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: a
+2024-02-26 19:05:07 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:07 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: a
+2024-02-26 19:05:08 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:08 - Success: Usunięto przepis: zea - tytuł przepisu: zea - Użytkownik: a
+2024-02-26 19:05:09 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:09 - Success: Usunięto przepis: kra - tytuł przepisu: kra - Użytkownik: a
+2024-02-26 19:05:10 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:10 - Success: Usunięto przepis: fa - tytuł przepisu: fa - Użytkownik: a
+2024-02-26 19:05:11 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:11 - Success: Usunięto przepis: affaa - tytuł przepisu: affaa - Użytkownik: a
+2024-02-26 19:05:12 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:12 - Success: Usunięto przepis: faf - tytuł przepisu: faf - Użytkownik: a
+2024-02-26 19:05:13 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:13 - Success: Usunięto przepis: afff - tytuł przepisu: afff - Użytkownik: a
+2024-02-26 19:05:14 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:14 - Success: Usunięto przepis: 1 - tytuł przepisu: 1 - Użytkownik: a
+2024-02-26 19:05:15 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:16 - Success: Usunięto przepis: 2 - tytuł przepisu: 2 - Użytkownik: a
+2024-02-26 19:05:16 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:17 - Success: Usunięto przepis: 5 - tytuł przepisu: 5 - Użytkownik: a
+2024-02-26 19:05:17 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:05:18 - Success: Usunięto przepis: 3 - tytuł przepisu: 3 - Użytkownik: a
+2024-02-26 19:05:19 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: a
+2024-02-26 19:07:52 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 19:07:57 - Success: Dodano nowy przepis - tytuł przepisu: a - Użytkownik: Maciej
+2024-02-26 19:09:50 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 19:09:53 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:09:54 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:09:56 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:12:23 - Success: Dodano nowy przepis - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 19:12:25 - Success: Dodano nowy przepis - tytuł przepisu: fasfsafas - Użytkownik: Maciej
+2024-02-26 19:16:04 - Success: Usunięto przepis: a - tytuł przepisu: a - Użytkownik: Maciej
+2024-02-26 19:16:05 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:16:05 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 19:16:05 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:16:06 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:16:07 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:16:07 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:16:08 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:16:08 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:16:09 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:16:09 - Success: Usunięto przepis: afs - tytuł przepisu: afs - Użytkownik: Maciej
+2024-02-26 19:16:10 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:16:11 - Success: Usunięto przepis: fasfsafas - tytuł przepisu: fasfsafas - Użytkownik: Maciej
+2024-02-26 19:16:12 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:16:27 - Success: Dodano nowy przepis - tytuł przepisu: Lorem ipsum - Użytkownik: Maciej
+2024-02-26 19:16:31 - Success: Dodano nowy przepis - tytuł przepisu: Gra o tron - Użytkownik: Maciej
+2024-02-26 19:16:34 - Success: Dodano nowy przepis - tytuł przepisu: as - Użytkownik: Maciej
+2024-02-26 19:18:21 - Success: Dodano nowy przepis - tytuł przepisu: olor sit amet, con - Użytkownik: Maciej
+2024-02-26 19:18:29 - Success: Dodano nowy przepis - tytuł przepisu: affafaf - Użytkownik: Maciej
+2024-02-26 19:18:31 - Success: Dodano nowy przepis - tytuł przepisu: vavsa - Użytkownik: Maciej
+2024-02-26 19:18:34 - Success: Dodano nowy przepis - tytuł przepisu: dffasfsa - Użytkownik: Maciej
+2024-02-26 19:18:42 - Success: Dodano nowy przepis - tytuł przepisu: fasasf - Użytkownik: Maciej
+2024-02-26 19:26:02 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:27:18 - Success: Dodano nowy przepis - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:39:56 - Success: Dodano nowy przepis - tytuł przepisu: z - Użytkownik: Maciej
+2024-02-26 19:42:37 - Success: Usunięto przepis: affafaf - tytuł przepisu: affafaf - Użytkownik: Maciej
+2024-02-26 19:42:37 - Success: Usunięto przepis: z - tytuł przepisu: z - Użytkownik: Maciej
+2024-02-26 19:42:38 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:38 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:42:39 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:39 - Success: Usunięto przepis: test - tytuł przepisu: test - Użytkownik: Maciej
+2024-02-26 19:42:40 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:40 - Success: Usunięto przepis: fasasf - tytuł przepisu: fasasf - Użytkownik: Maciej
+2024-02-26 19:42:41 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:41 - Success: Usunięto przepis: dffasfsa - tytuł przepisu: dffasfsa - Użytkownik: Maciej
+2024-02-26 19:42:42 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:43 - Success: Usunięto przepis: vavsa - tytuł przepisu: vavsa - Użytkownik: Maciej
+2024-02-26 19:42:43 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:44 - Success: Usunięto przepis: olor sit amet, con - tytuł przepisu: olor sit amet, con - Użytkownik: Maciej
+2024-02-26 19:42:44 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:45 - Success: Usunięto przepis: as - tytuł przepisu: as - Użytkownik: Maciej
+2024-02-26 19:42:46 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:47 - Success: Usunięto przepis: Gra o tron - tytuł przepisu: Gra o tron - Użytkownik: Maciej
+2024-02-26 19:42:48 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 19:42:49 - Success: Usunięto przepis: Lorem ipsum - tytuł przepisu: Lorem ipsum - Użytkownik: Maciej
+2024-02-26 19:42:51 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-26 20:00:39 - Success: Użytkownik 'a' zalogował się.
+2024-02-26 20:20:53 - Success: Użytkownik 'a' zalogował się.
+2024-02-26 20:33:51 - Error: Próba rejestracji użytkownika o loginie 'Maciej' i adresie e-mail 'battlefield0909@gmail.com' nieudana - login i adres e-mail są już zajęte.
+2024-02-26 20:35:23 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 20:37:22 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 20:38:49 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 20:39:51 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 20:40:05 - Error: Próba rejestracji użytkownika o loginie 'Maciej' i adresie e-mail 'battlefield0909@gmail.com' nieudana - login i adres e-mail są już zajęte.
+2024-02-26 20:40:26 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 20:46:25 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 20:46:51 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 21:11:45 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:12:26 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 21:16:26 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:18:25 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:22:33 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 21:23:59 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:24:14 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-26 21:27:42 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:28:41 - Error: Próba rejestracji użytkownika o loginie 'Maciej' nieudana - login jest już zajęty.
+2024-02-26 21:29:24 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:31:53 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na maciejwojciechowskiofc@gmail.com
+2024-02-26 21:36:54 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:37:35 - Error: Próba rejestracji użytkownika o loginie 'Maciej' i adresie e-mail 'battlefield0909@gmail.com' nieudana - login i adres e-mail są już zajęte.
+2024-02-26 21:38:45 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:40:04 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:41:12 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-26 21:41:48 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:33:59 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:33:59 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-27 10:34:04 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:35:55 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:41:32 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-27 10:41:46 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:47:13 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-27 10:47:29 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:49:26 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com
+2024-02-27 10:52:16 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila na battlefield0909@gmail.com. Można teraz się zalogować klikając &quot;Zaloguj się&quot;
+2024-02-27 10:52:38 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:56:43 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 10:56:43 - Error: Błędny login lub hasło dla użytkownika 'Maciej'.
+2024-02-27 10:56:56 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila z kodem aktywacyjnym na battlefield0909@gmail.com. Można teraz się zalogować klikając &quot;Zaloguj się&quot;.
+2024-02-27 10:57:10 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 11:01:36 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila z kodem aktywacyjnym na battlefield0909@gmail.com. Można teraz się zalogować klikając &quot;Zaloguj się&quot;.
+2024-02-27 11:01:49 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 11:05:23 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila z kodem aktywacyjnym na battlefield0909@gmail.com. Można teraz się zalogować klikając &quot;Zaloguj się&quot;.
+2024-02-27 11:05:40 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 11:09:28 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila z kodem aktywacyjnym na battlefield0909@gmail.com. Można teraz się zalogować klikając &quot;Zaloguj się&quot;.
+2024-02-27 11:09:37 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 11:15:33 - Success: Rejestracja przebiegła pomyślnie i wysłano powitalnego maila z kodem aktywacyjnym na battlefield0909@gmail.com. Można teraz się zalogować klikając &quot;Zaloguj się&quot;.
+2024-02-27 11:15:52 - Success: Użytkownik 'Maciej' zalogował się.
+2024-02-27 11:16:34 - Success: Dodano nowy przepis - tytuł przepisu: adsasd - Użytkownik: Maciej
+2024-02-27 11:16:36 - Success: Dodano nowy przepis - tytuł przepisu: Gra o tron - Użytkownik: Maciej
+2024-02-27 11:16:40 - Success: Dodano nowy przepis - tytuł przepisu: zaaaaaa - Użytkownik: Maciej
+2024-02-27 11:16:44 - Success: Dodano nowy przepis - tytuł przepisu: naaaaa - Użytkownik: Maciej
+2024-02-27 11:16:46 - Success: Dodano nowy przepis - tytuł przepisu: 31 - Użytkownik: Maciej
+2024-02-27 11:16:48 - Success: Dodano nowy przepis - tytuł przepisu: nn - Użytkownik: Maciej
+2024-02-27 11:16:53 - Success: Dodano nowy przepis - tytuł przepisu: kas - Użytkownik: Maciej
+2024-02-27 11:16:56 - Success: Dodano nowy przepis - tytuł przepisu: uasdv - Użytkownik: Maciej
+2024-02-27 11:17:04 - Success: Usunięto przepis: uasdv - tytuł przepisu: uasdv - Użytkownik: Maciej
+2024-02-27 11:17:05 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:06 - Success: Usunięto przepis: kas - tytuł przepisu: kas - Użytkownik: Maciej
+2024-02-27 11:17:07 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:08 - Success: Usunięto przepis: nn - tytuł przepisu: nn - Użytkownik: Maciej
+2024-02-27 11:17:08 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:09 - Success: Usunięto przepis: 31 - tytuł przepisu: 31 - Użytkownik: Maciej
+2024-02-27 11:17:10 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:10 - Success: Usunięto przepis: naaaaa - tytuł przepisu: naaaaa - Użytkownik: Maciej
+2024-02-27 11:17:11 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:12 - Success: Usunięto przepis: zaaaaaa - tytuł przepisu: zaaaaaa - Użytkownik: Maciej
+2024-02-27 11:17:12 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:13 - Success: Usunięto przepis: Gra o tron - tytuł przepisu: Gra o tron - Użytkownik: Maciej
+2024-02-27 11:17:14 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:15 - Success: Usunięto przepis: adsasd - tytuł przepisu: adsasd - Użytkownik: Maciej
+2024-02-27 11:17:15 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:17:21 - Success: Dodano nowy przepis - tytuł przepisu: aa - Użytkownik: Maciej
+2024-02-27 11:19:00 - Success: Dodano nowy przepis - tytuł przepisu: abbb - Użytkownik: Maciej
+2024-02-27 11:19:03 - Success: Dodano nowy przepis - tytuł przepisu: zaaaa - Użytkownik: Maciej
+2024-02-27 11:19:06 - Success: Dodano nowy przepis - tytuł przepisu: baaaab - Użytkownik: Maciej
+2024-02-27 11:19:08 - Success: Dodano nowy przepis - tytuł przepisu: tets - Użytkownik: Maciej
+2024-02-27 11:19:10 - Success: Dodano nowy przepis - tytuł przepisu: ywer - Użytkownik: Maciej
+2024-02-27 11:19:12 - Success: Dodano nowy przepis - tytuł przepisu: udsyhgds - Użytkownik: Maciej
+2024-02-27 11:19:15 - Success: Dodano nowy przepis - tytuł przepisu: wet - Użytkownik: Maciej
+2024-02-27 11:19:19 - Success: Dodano nowy przepis - tytuł przepisu: ostatni - Użytkownik: Maciej
+2024-02-27 11:19:41 - Success: Usunięto przepis: zaaaa - tytuł przepisu: zaaaa - Użytkownik: Maciej
+2024-02-27 11:19:53 - Success: Usunięto przepis: wet - tytuł przepisu: wet - Użytkownik: Maciej
+2024-02-27 11:19:54 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:19:55 - Success: Usunięto przepis: udsyhgds - tytuł przepisu: udsyhgds - Użytkownik: Maciej
+2024-02-27 11:19:55 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:19:56 - Success: Usunięto przepis: ywer - tytuł przepisu: ywer - Użytkownik: Maciej
+2024-02-27 11:19:56 - Success: Usunięto przepis: ostatniaa - tytuł przepisu: ostatniaa - Użytkownik: Maciej
+2024-02-27 11:19:57 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:19:57 - Success: Usunięto przepis: tets - tytuł przepisu: tets - Użytkownik: Maciej
+2024-02-27 11:19:58 - Success: Usunięto przepis: baaaab - tytuł przepisu: baaaab - Użytkownik: Maciej
+2024-02-27 11:19:59 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:19:59 - Success: Usunięto przepis: abbb - tytuł przepisu: abbb - Użytkownik: Maciej
+2024-02-27 11:20:00 - Success: Usunięto przepis:  - tytuł przepisu:  - Użytkownik: Maciej
+2024-02-27 11:20:42 - Success: Użytkownik 'Maciej' zalogował się.

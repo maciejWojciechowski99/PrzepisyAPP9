@@ -1,0 +1,29 @@
+# Blokada dostępu do plików
+<FilesMatch "^(Database|config)\.php$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    
+    # Obsługa błędu 404
+    ErrorDocument 404 /404.php
+    
+    # Przyjazne linki
+    RewriteRule ^zarejestruj-sie$ registration.php [NC,L]
+    RewriteRule ^zaloguj-sie$ login.php [NC,L]
+    RewriteRule ^ulubione$ favorite.php [NC,L]
+    RewriteRule ^ulubione-przepisy$ favorite.php [NC,L]
+    RewriteRule ^wylosuj-przepis$ draw.php [NC,L]
+    RewriteRule ^lista-zakupow$ todo.php [NC,L]
+    RewriteRule ^konto-uzytkownika$ user.php [NC,L]
+    RewriteRule ^reset-hasla$ resetPassword.php [NC,L]
+    RewriteRule ^dodaj-przepis$ sign.php [NC,L]
+    RewriteRule ^aktywacja-konta$ activate.php [NC,L]
+    RewriteRule ^strona-glowna$ index.php [NC,L]
+    
+</IfModule>
+
+
